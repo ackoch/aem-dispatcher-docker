@@ -1,5 +1,10 @@
 
 /.idea/
-logs/
 *.iml
 .DS_Store
+
+logs/
+enabled_vhosts/
+enabled_farms/
+cache/
+
